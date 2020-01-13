@@ -1,5 +1,5 @@
 # Data-Analysis-through-Dask
 
-In this repository, I have used Dask for data analysis on a very large dataset. 
+In this repository, a very large dataset(9.8GB) is used for Data Analysis through Dask 
 
 https://docs.dask.org/en/latest/
